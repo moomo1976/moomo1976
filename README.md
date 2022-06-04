@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moomo1976
-- 👀 I’m interested in Testing (manual/aotomatic),
+- 👀 I’m interested in Testing (manual/automatic),
 - 🌱 I’m currently learning -Testing m/a, python, js 
 - 💞️ I’m looking to collaborate on ...Soon Near Future
 - 📫 How to reach me ... moomo1976@gmail.com
